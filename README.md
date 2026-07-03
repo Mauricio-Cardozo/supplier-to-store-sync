@@ -6,6 +6,10 @@ Your supplier sends you an Excel with 500 products. Your store needs a specific 
 
 This tool takes your supplier's file, maps it to your store's format, and generates a ready-to-import CSV — no copy-pasting required.
 
+## Before → After
+
+![Supplier-to-Store Sync](screenshots/before-after.png)
+
 ## How it works
 
 ```
